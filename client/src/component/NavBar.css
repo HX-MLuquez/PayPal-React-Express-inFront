@@ -1,0 +1,27 @@
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 0px black;
+  }
+  
+  ul {
+    list-style: none;
+    margin-right: 20%;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20%;
+    padding: 10%;
+    
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }

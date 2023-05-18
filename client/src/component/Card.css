@@ -1,0 +1,27 @@
+.card{
+    border: 2px solid rgba(147, 138, 144, 0.876);
+    width: 18%;
+    font-size: 10px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+    background-color: rgb(232, 201, 162);
+}
+img{
+    width: 100%;
+    border-radius: 40px;
+}
+.link{
+    text-decoration: none;
+    
+}
+
+.head_card{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.footer_card button{
+    font-size: 14px;
+}
